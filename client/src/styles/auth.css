@@ -1,0 +1,26 @@
+.auth-container {
+  width: 300px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.auth-container input,
+.auth-container select {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+}
+
+.auth-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+.link {
+  color: blue;
+  cursor: pointer;
+  margin-top: 10px;
+}
