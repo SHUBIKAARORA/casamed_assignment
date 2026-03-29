@@ -27,7 +27,7 @@ function Dashboard() {
     };
 
     fetchSessions();
-  }, []);
+  }, [user.name]);
 
   const handleLogout = () => {
     logout();
