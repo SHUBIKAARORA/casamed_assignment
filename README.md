@@ -7,7 +7,7 @@ This project is a full-stack healthcare application built as part of the CasaMed
 - Therapist Dashboard
 
 
-## ech Stack
+## Tech Stack
 
 - **Frontend:** React.js  
 - **Backend:** Node.js, Express.js  
@@ -22,7 +22,7 @@ This project is a full-stack healthcare application built as part of the CasaMed
 
 ---
 
-## 🟦 Pillar A — WhatsApp Reminder Engine
+## Pillar A — WhatsApp Reminder Engine
 
 ### Implemented Features
 
